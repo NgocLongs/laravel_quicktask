@@ -1,0 +1,13 @@
+.panel-body {
+	width: 80%;
+	margin: 0 auto;
+	border: 1px solid #DDDDDD;
+	border-radius: 5px;
+}
+.align {
+	margin-top: 20px;
+}
+.navbar-inverse {
+	background: #DDDDDD;
+	color: #000;
+}
